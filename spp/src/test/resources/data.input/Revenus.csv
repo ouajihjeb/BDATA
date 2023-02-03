@@ -1,0 +1,1209 @@
+type_de_travailleur_independant;secteur_d_activite;annee;nombre_de_ti;revenu
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2015;2010;8208039
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2016;2098;8546370
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2017;2187;9267574
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2019;2387;12594568
+Autoentrepreneur;CZ1 - Industrie;2010;19813;60995443
+Autoentrepreneur;CZ1 - Industrie;2019;69653;285675751
+Autoentrepreneur;CZ2 - Métiers de bouche;2011;8953;29419477
+Autoentrepreneur;CZ2 - Métiers de bouche;2012;10721;34544781
+Autoentrepreneur;CZ2 - Métiers de bouche;2015;14680;45890880
+Autoentrepreneur;CZ2 - Métiers de bouche;2020;18685;72905964
+Autoentrepreneur;F1 - BTP gros-oeuvre;2010;14503;71466316
+Autoentrepreneur;F1 - BTP gros-oeuvre;2015;32888;189579222
+Autoentrepreneur;F1 - BTP gros-oeuvre;2020;48898;426285370
+Autoentrepreneur;F1 - BTP gros-oeuvre;2021;55017;530241856
+Autoentrepreneur;F2 - BTP travaux d'installation;2010;12824;63615235
+Autoentrepreneur;F2 - BTP travaux d'installation;2014;26650;156816737
+Autoentrepreneur;F2 - BTP travaux d'installation;2018;32784;286917421
+Autoentrepreneur;F2 - BTP travaux d'installation;2021;48914;510299428
+Autoentrepreneur;F3 - BTP travaux de finition;2021;86719;860437492
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2011;9073;41963099
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2017;21544;123512125
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2011;1487;6690527
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2012;1671;7176420
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2013;1956;7979554
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2015;2300;9028717
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2016;2363;9850948
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2017;2467;10918643
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2018;2707;13155207
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2019;3013;16009248
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2009;8591;24095339
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2012;26369;87229636
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2014;31731;96877276
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2011;28420;56737962
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2012;32902;65701058
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2016;40101;78079587
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2020;38077;81749396
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2021;39946;110420262
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2010;16412;41964355
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2011;20560;59506861
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2013;24720;71741336
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2014;24933;72001862
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2017;24545;84281374
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2018;27616;100628549
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2020;38204;151096578
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2021;46947;181562670
+Autoentrepreneur;HZ1 - Taxis - VTC;2011;590;2810889
+Autoentrepreneur;HZ1 - Taxis - VTC;2013;1305;5152992
+Autoentrepreneur;HZ1 - Taxis - VTC;2015;3400;13500059
+Autoentrepreneur;HZ1 - Taxis - VTC;2017;5801;26620225
+Autoentrepreneur;HZ1 - Taxis - VTC;2019;13588;110792337
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2011;675;2912391
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2012;752;3179195
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2013;861;3290788
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2014;1000;4044142
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2017;1403;5719123
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2010;271;890976
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2011;362;1532950
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2012;428;1744415
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2014;587;1795436
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2020;59527;103385091
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2011;1176;4889476
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2012;1658;6446583
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2013;2197;7778640
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2014;2503;8791405
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2020;2659;10523815
+Autoentrepreneur;IZ1 - Hébergement;2021;10151;76664086
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2009;3920;15179986
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2011;11656;51550197
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2013;16491;68115786
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2016;22501;97530042
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2020;33395;137856726
+Autoentrepreneur;JZ - Informatique, information et communication;2012;27154;134272655
+Autoentrepreneur;JZ - Informatique, information et communication;2015;31979;161125298
+Autoentrepreneur;JZ - Informatique, information et communication;2016;33217;177882169
+Autoentrepreneur;KZ - Activités financières et d'assurance;2010;1976;10727649
+Autoentrepreneur;KZ - Activités financières et d'assurance;2012;2957;16301002
+Autoentrepreneur;KZ - Activités financières et d'assurance;2014;3611;18943804
+Autoentrepreneur;KZ - Activités financières et d'assurance;2016;4220;26089798
+Autoentrepreneur;KZ - Activités financières et d'assurance;2020;7730;59334369
+Autoentrepreneur;LZ - Activités immobilières;2013;7811;43285622
+Autoentrepreneur;LZ - Activités immobilières;2017;13842;91588650
+Autoentrepreneur;LZ - Activités immobilières;2018;18122;137251963
+Autoentrepreneur;LZ - Activités immobilières;2019;23393;202601460
+Autoentrepreneur;M1 - Activités juridiques;2011;902;8048160
+Autoentrepreneur;M1 - Activités juridiques;2012;960;9203322
+Autoentrepreneur;M1 - Activités juridiques;2016;1049;12308984
+Autoentrepreneur;M1 - Activités juridiques;2018;1122;15042033
+Autoentrepreneur;M1 - Activités juridiques;2021;1449;24163651
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2016;31930;225799307
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2019;44967;389339956
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2020;49285;390213185
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2019;68689;568115695
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2020;75514;588731245
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2010;12168;49539692
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2013;20306;93200287
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2015;22268;110070175
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2017;25399;139118062
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2021;47474;308998365
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2009;6999;23338606
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2017;46350;253887135
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2018;52016;319375231
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2019;59557;388990603
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2020;64838;377371815
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2021;73689;501839117
+Autoentrepreneur;N1 - Activités de nettoyage;2010;7213;24458794
+Autoentrepreneur;N1 - Activités de nettoyage;2017;27623;132346511
+Autoentrepreneur;N1 - Activités de nettoyage;2019;41093;236048237
+Autoentrepreneur;N1 - Activités de nettoyage;2020;49961;275587474
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2011;23623;108261811
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2015;31400;153529170
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2019;43260;265670760
+Autoentrepreneur;PZ - Enseignement;2014;50940;264237738
+Autoentrepreneur;PZ - Enseignement;2016;59440;318556709
+Autoentrepreneur;PZ - Enseignement;2017;64019;352751749
+Autoentrepreneur;PZ - Enseignement;2018;71374;414061058
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2009;300;797381
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2011;1602;10074546
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2013;2950;20761286
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2014;3635;26897583
+Autoentrepreneur;QZ6 - Autres services de santé;2010;11005;37733390
+Autoentrepreneur;QZ6 - Autres services de santé;2014;33347;148516230
+Autoentrepreneur;QZ6 - Autres services de santé;2017;49546;246303496
+Autoentrepreneur;QZ6 - Autres services de santé;2020;65062;355710361
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2015;3025;11016036
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2018;4932;17208898
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2020;6706;24473078
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2021;8748;37463116
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2009;8142;18845626
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2011;25445;83554534
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2015;44231;149232951
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2017;52795;200005981
+Autoentrepreneur;R2 - Activités sportives;2009;3115;7726300
+Autoentrepreneur;R2 - Activités sportives;2011;12249;55386854
+Autoentrepreneur;R2 - Activités sportives;2016;27453;136789190
+Autoentrepreneur;R2 - Activités sportives;2019;37577;213459671
+Autoentrepreneur;S1 - Réparations hors automobile;2010;12250;36442472
+Autoentrepreneur;S1 - Réparations hors automobile;2012;17193;62992656
+Autoentrepreneur;S1 - Réparations hors automobile;2018;20774;99779814
+Autoentrepreneur;S1 - Réparations hors automobile;2020;24349;119277043
+Autoentrepreneur;S1 - Réparations hors automobile;2021;27655;149731621
+Autoentrepreneur;S2 - Coiffure et soins du corps;2009;9908;25055479
+Autoentrepreneur;S2 - Coiffure et soins du corps;2012;39322;140388045
+Autoentrepreneur;S2 - Coiffure et soins du corps;2014;46023;169975849
+Autoentrepreneur;S2 - Coiffure et soins du corps;2018;54060;252226404
+Autoentrepreneur;S2 - Coiffure et soins du corps;2019;60147;298170214
+Autoentrepreneur;S2 - Coiffure et soins du corps;2021;76936;371666828
+Autoentrepreneur;S3 - Autres services personnels;2011;22304;78639023
+Autoentrepreneur;S3 - Autres services personnels;2016;33590;135019002
+Autoentrepreneur;UZ - Autres;2013;1259;6193426
+Autoentrepreneur;UZ - Autres;2016;959;3689407
+Autoentrepreneur;UZ - Autres;2017;900;3917477
+Autoentrepreneur;UZ - Autres;2018;604;3253356
+Autoentrepreneur;UZ - Autres;2021;188;994853
+TI classique;AZ - Agriculture, sylviculture et pêche;2009;11352;255947484
+TI classique;AZ - Agriculture, sylviculture et pêche;2010;11223;266622306
+TI classique;AZ - Agriculture, sylviculture et pêche;2011;13050;283834354
+TI classique;AZ - Agriculture, sylviculture et pêche;2012;13110;285972613
+TI classique;AZ - Agriculture, sylviculture et pêche;2014;10650;292685999
+TI classique;AZ - Agriculture, sylviculture et pêche;2019;7144;249158583
+TI classique;CZ1 - Industrie;2006;73556;1645910652
+TI classique;CZ1 - Industrie;2009;79211;1713315583
+TI classique;CZ1 - Industrie;2011;70818;1745080730
+TI classique;CZ1 - Industrie;2012;69378;1770460691
+TI classique;CZ1 - Industrie;2015;61292;1801292943
+TI classique;CZ1 - Industrie;2018;55526;1855252998
+TI classique;CZ1 - Industrie;2019;53902;1788814064
+TI classique;CZ2 - Métiers de bouche;2004;83304;1896129438
+TI classique;CZ2 - Métiers de bouche;2005;84626;1854936558
+TI classique;CZ2 - Métiers de bouche;2009;79958;1692696019
+TI classique;CZ2 - Métiers de bouche;2015;61618;1474203306
+TI classique;CZ2 - Métiers de bouche;2017;58310;1410011590
+TI classique;CZ2 - Métiers de bouche;2019;54837;1416553039
+TI classique;F1 - BTP gros-oeuvre;2004;78776;1966543859
+TI classique;F1 - BTP gros-oeuvre;2007;90662;2423710947
+TI classique;F1 - BTP gros-oeuvre;2010;93104;2220835763
+TI classique;F1 - BTP gros-oeuvre;2014;84490;2256058037
+TI classique;F1 - BTP gros-oeuvre;2018;74109;2260900332
+TI classique;F1 - BTP gros-oeuvre;2019;72678;2281045662
+TI classique;F1 - BTP gros-oeuvre;2020;71885;2176577460
+TI classique;F2 - BTP travaux d'installation;2004;63313;1627946556
+TI classique;F2 - BTP travaux d'installation;2006;70018;1800949768
+TI classique;F2 - BTP travaux d'installation;2011;76428;1910719467
+TI classique;F2 - BTP travaux d'installation;2015;68909;1869711918
+TI classique;F2 - BTP travaux d'installation;2016;67388;1897899067
+TI classique;F2 - BTP travaux d'installation;2018;63555;1981957875
+TI classique;F3 - BTP travaux de finition;2005;105027;2396841572
+TI classique;F3 - BTP travaux de finition;2006;107901;2501408234
+TI classique;F3 - BTP travaux de finition;2007;111925;2651183892
+TI classique;F3 - BTP travaux de finition;2017;83440;2283306355
+TI classique;G1 - Commerce-réparation d'automobiles;2006;40380;924862213
+TI classique;G1 - Commerce-réparation d'automobiles;2010;45005;1002832085
+TI classique;G1 - Commerce-réparation d'automobiles;2012;45562;998539048
+TI classique;G1 - Commerce-réparation d'automobiles;2014;44844;1072026180
+TI classique;G1 - Commerce-réparation d'automobiles;2016;44002;1096397340
+TI classique;G1 - Commerce-réparation d'automobiles;2018;42258;1148311546
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2004;52012;1188069178
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2005;55399;1266614456
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2015;54428;1716908841
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2020;47603;1726210486
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2004;27597;496717180
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2011;28149;519692029
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2014;25721;544763850
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2005;117743;2073373379
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2006;117212;2033350648
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2013;103706;2064880451
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2016;92881;1960687614
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2020;81310;1958873066
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2010;32448;160392109
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2011;26826;148338906
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2014;18527;115235008
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2017;13173;93861910
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2018;11752;86676692
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2020;9603;64364710
+TI classique;G6 - Commerce de détail non spécialisé;2015;15719;324058031
+TI classique;G6 - Commerce de détail non spécialisé;2016;15685;340146008
+TI classique;G6 - Commerce de détail non spécialisé;2017;15169;348779789
+TI classique;HZ1 - Taxis - VTC;2004;27637;394027159
+TI classique;HZ1 - Taxis - VTC;2005;28672;415832566
+TI classique;HZ1 - Taxis - VTC;2009;31771;483709675
+TI classique;HZ1 - Taxis - VTC;2011;32099;491592820
+TI classique;HZ1 - Taxis - VTC;2019;35663;572540563
+TI classique;HZ2 - Transports routier de fret et déménagement;2008;19386;487070959
+TI classique;HZ2 - Transports routier de fret et déménagement;2009;20053;467694207
+TI classique;HZ2 - Transports routier de fret et déménagement;2010;19545;459435883
+TI classique;HZ2 - Transports routier de fret et déménagement;2014;17528;489021260
+TI classique;HZ2 - Transports routier de fret et déménagement;2020;14961;467519672
+TI classique;HZ3 - Activités de poste et de courrier;2009;1015;13629062
+TI classique;HZ3 - Activités de poste et de courrier;2017;651;12951316
+TI classique;HZ3 - Activités de poste et de courrier;2020;956;12438491
+TI classique;HZ4 - Autres activités de transports et entreposage;2005;4629;101862895
+TI classique;HZ4 - Autres activités de transports et entreposage;2007;4883;120991545
+TI classique;HZ4 - Autres activités de transports et entreposage;2010;5442;123692242
+TI classique;HZ4 - Autres activités de transports et entreposage;2014;5305;150215139
+TI classique;HZ4 - Autres activités de transports et entreposage;2017;4948;147676384
+TI classique;HZ4 - Autres activités de transports et entreposage;2018;4808;156115111
+TI classique;IZ1 - Hébergement;2007;22884;433653369
+TI classique;IZ1 - Hébergement;2009;23629;427203795
+TI classique;IZ1 - Hébergement;2010;22543;432325052
+TI classique;IZ1 - Hébergement;2012;21809;415943603
+TI classique;IZ1 - Hébergement;2013;21418;427300350
+TI classique;IZ1 - Hébergement;2017;20140;396750415
+TI classique;IZ1 - Hébergement;2018;19915;408417648
+TI classique;IZ1 - Hébergement;2020;19626;327432977
+TI classique;IZ2 - Restauration et débits de boissons;2005;117821;2030183930
+TI classique;IZ2 - Restauration et débits de boissons;2008;116063;2002380226
+TI classique;IZ2 - Restauration et débits de boissons;2012;117221;2078433900
+TI classique;IZ2 - Restauration et débits de boissons;2013;116067;2119521333
+TI classique;IZ2 - Restauration et débits de boissons;2015;111212;2089036278
+TI classique;IZ2 - Restauration et débits de boissons;2020;109636;2079258249
+TI classique;JZ - Informatique, information et communication;2004;19947;424557899
+TI classique;JZ - Informatique, information et communication;2010;29798;747525638
+TI classique;JZ - Informatique, information et communication;2011;29113;810212811
+TI classique;JZ - Informatique, information et communication;2014;28776;984444774
+TI classique;JZ - Informatique, information et communication;2016;29286;1078169266
+TI classique;JZ - Informatique, information et communication;2017;29331;1143776219
+TI classique;JZ - Informatique, information et communication;2019;29360;1270737055
+TI classique;KZ - Activités financières et d'assurance;2010;28868;1671567054
+TI classique;KZ - Activités financières et d'assurance;2011;28692;1634047728
+TI classique;KZ - Activités financières et d'assurance;2014;28653;1818174541
+TI classique;KZ - Activités financières et d'assurance;2015;28537;1844299700
+TI classique;KZ - Activités financières et d'assurance;2017;28882;1906135512
+TI classique;KZ - Activités financières et d'assurance;2019;30155;2005252635
+TI classique;LZ - Activités immobilières;2004;55557;1665053293
+TI classique;LZ - Activités immobilières;2005;62054;1798224230
+TI classique;LZ - Activités immobilières;2008;73561;1906470829
+TI classique;LZ - Activités immobilières;2012;76275;2151568591
+TI classique;LZ - Activités immobilières;2013;75472;2371799498
+TI classique;LZ - Activités immobilières;2014;73365;2352608835
+TI classique;M1 - Activités juridiques;2004;51115;4822926236
+TI classique;M1 - Activités juridiques;2008;57235;5578880478
+TI classique;M1 - Activités juridiques;2009;60664;5271518177
+TI classique;M1 - Activités juridiques;2011;65299;6844570347
+TI classique;M1 - Activités juridiques;2012;67443;6821469067
+TI classique;M1 - Activités juridiques;2013;69193;6295982507
+TI classique;M1 - Activités juridiques;2014;70964;6306114682
+TI classique;M1 - Activités juridiques;2020;82092;7541395925
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2006;58702;2564326932
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2008;62101;2721743965
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2010;65113;2709603256
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2014;63933;2857768400
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2005;35765;942836466
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2006;39200;1057346976
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2010;43260;1276692611
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2013;43177;1548249402
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2017;41845;1727470417
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2018;41463;1961454929
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2019;41046;1807809572
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2020;41273;1708982905
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2006;7256;144881321
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2008;9087;184829880
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2012;9704;212000838
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2016;9352;231292443
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2019;8951;242607793
+TI classique;M5 - Autres activités scientifiques et techniques;2005;35865;1008332259
+TI classique;M5 - Autres activités scientifiques et techniques;2008;38849;1193989900
+TI classique;M5 - Autres activités scientifiques et techniques;2012;38403;1303397125
+TI classique;N1 - Activités de nettoyage;2005;11590;236322432
+TI classique;N1 - Activités de nettoyage;2006;12399;252758634
+TI classique;N1 - Activités de nettoyage;2007;13518;273243745
+TI classique;N1 - Activités de nettoyage;2011;13948;305914910
+TI classique;N1 - Activités de nettoyage;2015;12798;343879511
+TI classique;N2 - Autres activités de service administratif et de soutien;2005;27081;540968499
+TI classique;N2 - Autres activités de service administratif et de soutien;2016;27575;782985525
+TI classique;N2 - Autres activités de service administratif et de soutien;2020;25113;759344676
+TI classique;PZ - Enseignement;2004;25537;417465628
+TI classique;PZ - Enseignement;2010;30282;545914679
+TI classique;PZ - Enseignement;2013;29215;586954626
+TI classique;PZ - Enseignement;2014;28540;597097874
+TI classique;PZ - Enseignement;2019;24173;550981192
+TI classique;QZ1 - Médecine générale;2008;79018;5660141002
+TI classique;QZ1 - Médecine générale;2015;82579;6428298000
+TI classique;QZ1 - Médecine générale;2017;81955;6686926617
+TI classique;QZ1 - Médecine générale;2018;81460;6717383186
+TI classique;QZ1 - Médecine générale;2020;79344;6573977030
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2006;44990;4644077843
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2010;50525;5691649627
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2020;57144;7078173024
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2005;135555;4548582150
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2008;148499;5584383673
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2010;169539;6540596106
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2015;220407;8844373787
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2018;245526;10141439034
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2020;260755;10380936888
+TI classique;QZ4 - Pratique dentaire;2004;36725;3147313090
+TI classique;QZ4 - Pratique dentaire;2006;37023;3111220718
+TI classique;QZ4 - Pratique dentaire;2015;38121;3804494666
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2007;25019;2208718797
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2009;24483;2080169484
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2018;24109;1950928437
+TI classique;QZ6 - Autres services de santé;2008;23325;385467303
+TI classique;QZ6 - Autres services de santé;2010;23919;428278430
+TI classique;QZ6 - Autres services de santé;2011;23489;443353757
+TI classique;QZ6 - Autres services de santé;2015;24364;519830406
+TI classique;QZ6 - Autres services de santé;2016;24713;534748659
+TI classique;QZ6 - Autres services de santé;2018;24243;543223696
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2005;1371;25092228
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2006;1600;27576117
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2008;2152;35585060
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2009;2426;41178749
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2010;2389;44349513
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2011;2476;49549001
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2012;2529;52486739
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2015;2770;70774580
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2016;2889;75306674
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2017;2949;81558229
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2005;29547;327553951
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2009;34296;389910852
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2011;29484;406112357
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2017;23314;465611027
+TI classique;R2 - Activités sportives;2012;26314;295135998
+TI classique;R2 - Activités sportives;2016;25816;318358991
+TI classique;S1 - Réparations hors automobile;2004;17280;225970561
+TI classique;S1 - Réparations hors automobile;2005;18520;227606897
+TI classique;S1 - Réparations hors automobile;2006;19426;235622478
+TI classique;S1 - Réparations hors automobile;2016;13191;210973596
+TI classique;S2 - Coiffure et soins du corps;2005;69012;894179074
+TI classique;S2 - Coiffure et soins du corps;2006;71633;912419500
+TI classique;S2 - Coiffure et soins du corps;2007;75291;955676561
+TI classique;S2 - Coiffure et soins du corps;2015;66400;994570671
+TI classique;S3 - Autres services personnels;2008;24512;293609540
+TI classique;S3 - Autres services personnels;2015;18025;290626261
+TI classique;S3 - Autres services personnels;2020;15374;261277507
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2010;902;3030440
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2011;1214;4503277
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2012;1469;5770303
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2013;1678;6420505
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2014;1870;7422978
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2018;2298;11057348
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2020;2571;13064601
+Autoentrepreneur;CZ1 - Industrie;2011;27432;92320869
+Autoentrepreneur;CZ1 - Industrie;2013;40104;128270498
+Autoentrepreneur;CZ1 - Industrie;2014;45222;140430992
+Autoentrepreneur;CZ1 - Industrie;2015;47256;153554206
+Autoentrepreneur;CZ1 - Industrie;2016;50324;171229062
+Autoentrepreneur;CZ1 - Industrie;2017;53550;193397599
+Autoentrepreneur;CZ1 - Industrie;2018;59917;233334576
+Autoentrepreneur;CZ1 - Industrie;2020;80947;302172521
+Autoentrepreneur;CZ2 - Métiers de bouche;2010;6982;21657398
+Autoentrepreneur;CZ2 - Métiers de bouche;2013;12352;37729524
+Autoentrepreneur;CZ2 - Métiers de bouche;2014;13821;40648220
+Autoentrepreneur;CZ2 - Métiers de bouche;2018;17054;62037025
+Autoentrepreneur;F1 - BTP gros-oeuvre;2011;20041;113603234
+Autoentrepreneur;F1 - BTP gros-oeuvre;2012;24976;139548284
+Autoentrepreneur;F1 - BTP gros-oeuvre;2013;28796;157304250
+Autoentrepreneur;F1 - BTP gros-oeuvre;2019;44156;382446903
+Autoentrepreneur;F2 - BTP travaux d'installation;2012;21696;131029692
+Autoentrepreneur;F2 - BTP travaux d'installation;2013;24551;145676382
+Autoentrepreneur;F2 - BTP travaux d'installation;2015;27345;176037582
+Autoentrepreneur;F2 - BTP travaux d'installation;2016;28403;199005892
+Autoentrepreneur;F2 - BTP travaux d'installation;2019;37636;364199572
+Autoentrepreneur;F3 - BTP travaux de finition;2017;59807;423034531
+Autoentrepreneur;F3 - BTP travaux de finition;2020;78437;683378200
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2013;14602;62291384
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2016;18525;85226905
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2017;19535;93967146
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2018;21907;115273327
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2020;28012;143797350
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2021;31473;173718693
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2010;8038;38568387
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2011;11001;56561464
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2013;15375;72635703
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2015;17797;89289284
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2016;19373;103273420
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2020;35646;247096774
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2021;43272;340528596
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2010;1182;4983916
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2010;18070;58294285
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2011;22755;76856792
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2013;29731;92671307
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2015;32641;104122635
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2018;36413;138657470
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2021;41649;191411880
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2009;9294;16964869
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2010;22378;43674626
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2014;38561;70697736
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2017;39922;82244239
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2018;40634;89349156
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2009;7873;15270047
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2016;23766;77863437
+Autoentrepreneur;HZ1 - Taxis - VTC;2010;398;1860455
+Autoentrepreneur;HZ1 - Taxis - VTC;2014;2221;8968021
+Autoentrepreneur;HZ1 - Taxis - VTC;2016;4323;17862016
+Autoentrepreneur;HZ1 - Taxis - VTC;2018;9462;56055629
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2009;229;729736
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2010;511;2036099
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2015;1108;4515842
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2018;1766;7345384
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2021;3526;15651405
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2016;6704;9890226
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2017;11181;15104688
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2018;23416;32800595
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2010;823;3177234
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2016;2404;9000070
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2019;2589;12702379
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2021;3002;14436674
+Autoentrepreneur;IZ1 - Hébergement;2009;1485;6254011
+Autoentrepreneur;IZ1 - Hébergement;2011;3260;15586492
+Autoentrepreneur;IZ1 - Hébergement;2012;3930;19400634
+Autoentrepreneur;IZ1 - Hébergement;2013;4480;22549669
+Autoentrepreneur;IZ1 - Hébergement;2014;5140;26374653
+Autoentrepreneur;IZ1 - Hébergement;2016;6166;33531380
+Autoentrepreneur;IZ1 - Hébergement;2017;6884;39832473
+Autoentrepreneur;IZ1 - Hébergement;2019;9011;63246538
+Autoentrepreneur;IZ1 - Hébergement;2020;9233;49816459
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2010;8901;37732521
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2012;14207;60946879
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2017;24091;109883584
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2019;30650;166337247
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2021;40020;186974811
+Autoentrepreneur;JZ - Informatique, information et communication;2009;8443;26659607
+Autoentrepreneur;JZ - Informatique, information et communication;2013;30107;142895753
+Autoentrepreneur;JZ - Informatique, information et communication;2014;31744;149133451
+Autoentrepreneur;JZ - Informatique, information et communication;2019;46650;376724043
+Autoentrepreneur;JZ - Informatique, information et communication;2020;55068;449790664
+Autoentrepreneur;KZ - Activités financières et d'assurance;2011;2596;14696340
+Autoentrepreneur;KZ - Activités financières et d'assurance;2019;6634;55275859
+Autoentrepreneur;LZ - Activités immobilières;2009;1500;6791025
+Autoentrepreneur;LZ - Activités immobilières;2012;6956;39042827
+Autoentrepreneur;LZ - Activités immobilières;2014;8703;47331668
+Autoentrepreneur;LZ - Activités immobilières;2021;35343;332532356
+Autoentrepreneur;M1 - Activités juridiques;2013;996;10742245
+Autoentrepreneur;M1 - Activités juridiques;2017;989;11441607
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2009;5352;25725340
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2010;13495;89744969
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2013;25147;168827755
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2014;27385;179184700
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2017;34323;249132347
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2018;39013;320700032
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2009;9441;51658884
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2011;27795;210896242
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2014;35147;241966596
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2017;46031;316270595
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2021;92123;793140965
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2009;5138;13623297
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2011;16331;76860925
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2016;23867;123919803
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2018;28804;176769263
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2011;23486;122441087
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2012;29251;149850139
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2016;43587;228648967
+Autoentrepreneur;N1 - Activités de nettoyage;2009;2657;6575573
+Autoentrepreneur;N1 - Activités de nettoyage;2011;10400;41444861
+Autoentrepreneur;N1 - Activités de nettoyage;2012;13430;55990650
+Autoentrepreneur;N1 - Activités de nettoyage;2014;19254;78497783
+Autoentrepreneur;N1 - Activités de nettoyage;2015;21490;92900371
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2010;18678;76467912
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2016;32175;161887740
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2017;33434;176399175
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2018;37566;214250544
+Autoentrepreneur;PZ - Enseignement;2009;9882;27206481
+Autoentrepreneur;PZ - Enseignement;2010;23989;106139348
+Autoentrepreneur;PZ - Enseignement;2013;45498;237141292
+Autoentrepreneur;PZ - Enseignement;2015;54670;286093052
+Autoentrepreneur;PZ - Enseignement;2019;79603;475206473
+Autoentrepreneur;PZ - Enseignement;2020;85072;418558002
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2012;2269;15463122
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2019;8807;97280260
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2021;11601;148642916
+Autoentrepreneur;QZ6 - Autres services de santé;2012;22161;93831511
+Autoentrepreneur;QZ6 - Autres services de santé;2013;27611;120026339
+Autoentrepreneur;QZ6 - Autres services de santé;2019;60976;368819957
+Autoentrepreneur;QZ6 - Autres services de santé;2021;71143;512613479
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2009;417;926200
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2011;1343;4771473
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2012;2189;7071452
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2016;3481;12002134
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2017;3998;14091059
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2012;31540;104602433
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2013;36760;117774165
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2016;48617;174393727
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2018;60169;248220489
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2019;68507;305120034
+Autoentrepreneur;R2 - Activités sportives;2010;8483;33632780
+Autoentrepreneur;R2 - Activités sportives;2013;20246;93026331
+Autoentrepreneur;R2 - Activités sportives;2015;25416;122849321
+Autoentrepreneur;R2 - Activités sportives;2018;33671;181038828
+Autoentrepreneur;R2 - Activités sportives;2020;39053;162789431
+Autoentrepreneur;R2 - Activités sportives;2021;44011;203429493
+Autoentrepreneur;S1 - Réparations hors automobile;2009;5197;10888174
+Autoentrepreneur;S1 - Réparations hors automobile;2011;15192;52433256
+Autoentrepreneur;S1 - Réparations hors automobile;2013;18437;68044010
+Autoentrepreneur;S1 - Réparations hors automobile;2014;19981;73601374
+Autoentrepreneur;S1 - Réparations hors automobile;2015;20234;78960762
+Autoentrepreneur;S1 - Réparations hors automobile;2016;20090;84050279
+Autoentrepreneur;S2 - Coiffure et soins du corps;2010;24175;77832316
+Autoentrepreneur;S2 - Coiffure et soins du corps;2011;32432;113957291
+Autoentrepreneur;S2 - Coiffure et soins du corps;2017;49529;218304310
+Autoentrepreneur;S3 - Autres services personnels;2010;17336;53677717
+Autoentrepreneur;S3 - Autres services personnels;2013;27991;102911249
+Autoentrepreneur;S3 - Autres services personnels;2015;31468;121704011
+Autoentrepreneur;S3 - Autres services personnels;2020;65502;246021631
+Autoentrepreneur;S3 - Autres services personnels;2021;85364;368289176
+Autoentrepreneur;UZ - Autres;2009;732;2739942
+Autoentrepreneur;UZ - Autres;2015;725;2627122
+TI classique;AZ - Agriculture, sylviculture et pêche;2004;8013;215620547
+TI classique;AZ - Agriculture, sylviculture et pêche;2006;9373;242042285
+TI classique;AZ - Agriculture, sylviculture et pêche;2008;11066;260607909
+TI classique;AZ - Agriculture, sylviculture et pêche;2016;9060;272824031
+TI classique;AZ - Agriculture, sylviculture et pêche;2020;6722;223634371
+TI classique;CZ1 - Industrie;2004;70155;1549430007
+TI classique;CZ1 - Industrie;2005;72893;1601861572
+TI classique;CZ1 - Industrie;2007;75773;1759976290
+TI classique;CZ1 - Industrie;2008;77039;1807036396
+TI classique;CZ1 - Industrie;2014;64163;1845808559
+TI classique;CZ2 - Métiers de bouche;2006;82550;1778319334
+TI classique;CZ2 - Métiers de bouche;2007;82039;1785474571
+TI classique;CZ2 - Métiers de bouche;2011;70461;1558990032
+TI classique;CZ2 - Métiers de bouche;2012;68521;1511823217
+TI classique;CZ2 - Métiers de bouche;2014;64209;1501402815
+TI classique;CZ2 - Métiers de bouche;2018;56475;1391671491
+TI classique;CZ2 - Métiers de bouche;2020;53481;1446763490
+TI classique;F1 - BTP gros-oeuvre;2008;93748;2421617071
+TI classique;F1 - BTP gros-oeuvre;2012;89798;2215925801
+TI classique;F1 - BTP gros-oeuvre;2013;88370;2344270679
+TI classique;F1 - BTP gros-oeuvre;2015;80531;2170767398
+TI classique;F1 - BTP gros-oeuvre;2017;75583;2177840487
+TI classique;F2 - BTP travaux d'installation;2013;75045;2002451517
+TI classique;F2 - BTP travaux d'installation;2014;71978;1903320958
+TI classique;F2 - BTP travaux d'installation;2019;62471;2003051937
+TI classique;F3 - BTP travaux de finition;2004;99945;2267495711
+TI classique;F3 - BTP travaux de finition;2008;110753;2656265982
+TI classique;F3 - BTP travaux de finition;2009;116164;2600310142
+TI classique;F3 - BTP travaux de finition;2013;100931;2503813927
+TI classique;F3 - BTP travaux de finition;2014;96129;2372397629
+TI classique;F3 - BTP travaux de finition;2016;87678;2290665659
+TI classique;F3 - BTP travaux de finition;2019;78140;2295754420
+TI classique;G1 - Commerce-réparation d'automobiles;2004;38913;900352170
+TI classique;G1 - Commerce-réparation d'automobiles;2005;40091;923897383
+TI classique;G1 - Commerce-réparation d'automobiles;2011;45003;1002754892
+TI classique;G1 - Commerce-réparation d'automobiles;2015;44049;1083237900
+TI classique;G1 - Commerce-réparation d'automobiles;2019;41746;1154963862
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2006;56402;1319951051
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2008;63108;1497720085
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2009;68009;1462708380
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2010;64782;1507868743
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2016;53498;1732326288
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2017;51617;1756458527
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2018;49963;1864911682
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2008;27052;490907142
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2009;28643;510522595
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2012;27929;524644105
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2015;25257;551187828
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2004;113903;2088583115
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2008;117931;2055840362
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2009;123691;2036389307
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2010;114854;2009341212
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2011;109912;2033033615
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2015;94743;1975317343
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2018;86190;2026060471
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2019;83605;2019331012
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2005;49524;236809073
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2006;50188;236656471
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2007;48965;233446865
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2008;44699;212278947
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2009;45511;205805456
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2013;20793;123252371
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2016;15192;99084925
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2019;10616;86263576
+TI classique;G6 - Commerce de détail non spécialisé;2005;10182;164207414
+TI classique;G6 - Commerce de détail non spécialisé;2006;12049;178410079
+TI classique;G6 - Commerce de détail non spécialisé;2007;14391;200143036
+TI classique;G6 - Commerce de détail non spécialisé;2008;15734;219151154
+TI classique;G6 - Commerce de détail non spécialisé;2011;16411;249619991
+TI classique;G6 - Commerce de détail non spécialisé;2014;16283;313199776
+TI classique;G6 - Commerce de détail non spécialisé;2018;15134;372017244
+TI classique;G6 - Commerce de détail non spécialisé;2020;15474;396084919
+TI classique;HZ1 - Taxis - VTC;2007;29762;463035211
+TI classique;HZ1 - Taxis - VTC;2008;30036;452171248
+TI classique;HZ1 - Taxis - VTC;2010;31730;487262268
+TI classique;HZ1 - Taxis - VTC;2013;32752;509583057
+TI classique;HZ1 - Taxis - VTC;2014;32698;497356910
+TI classique;HZ1 - Taxis - VTC;2015;33486;504330150
+TI classique;HZ1 - Taxis - VTC;2018;35260;568010806
+TI classique;HZ1 - Taxis - VTC;2020;35066;399247764
+TI classique;HZ2 - Transports routier de fret et déménagement;2004;19159;464470642
+TI classique;HZ2 - Transports routier de fret et déménagement;2005;19322;455407377
+TI classique;HZ2 - Transports routier de fret et déménagement;2006;18656;472431433
+TI classique;HZ2 - Transports routier de fret et déménagement;2012;19046;457143216
+TI classique;HZ2 - Transports routier de fret et déménagement;2013;18387;486453281
+TI classique;HZ2 - Transports routier de fret et déménagement;2015;16824;488676188
+TI classique;HZ2 - Transports routier de fret et déménagement;2016;16454;494970172
+TI classique;HZ2 - Transports routier de fret et déménagement;2017;15741;490080320
+TI classique;HZ3 - Activités de poste et de courrier;2004;885;12806598
+TI classique;HZ3 - Activités de poste et de courrier;2005;982;13810221
+TI classique;HZ3 - Activités de poste et de courrier;2006;1021;14325409
+TI classique;HZ3 - Activités de poste et de courrier;2007;1015;14373036
+TI classique;HZ3 - Activités de poste et de courrier;2008;936;13832781
+TI classique;HZ3 - Activités de poste et de courrier;2011;930;12867286
+TI classique;HZ3 - Activités de poste et de courrier;2012;935;13539043
+TI classique;HZ3 - Activités de poste et de courrier;2014;900;14093078
+TI classique;HZ3 - Activités de poste et de courrier;2018;653;14026550
+TI classique;HZ3 - Activités de poste et de courrier;2019;850;13542953
+TI classique;HZ4 - Autres activités de transports et entreposage;2004;4435;96559396
+TI classique;HZ4 - Autres activités de transports et entreposage;2006;4571;106965455
+TI classique;HZ4 - Autres activités de transports et entreposage;2011;5374;132372192
+TI classique;HZ4 - Autres activités de transports et entreposage;2012;5501;135933595
+TI classique;HZ4 - Autres activités de transports et entreposage;2019;4660;151806822
+TI classique;IZ1 - Hébergement;2004;22242;427437839
+TI classique;IZ1 - Hébergement;2006;22635;419019220
+TI classique;IZ1 - Hébergement;2008;23296;421046244
+TI classique;IZ1 - Hébergement;2011;22025;430918872
+TI classique;IZ1 - Hébergement;2016;20573;391528431
+TI classique;IZ2 - Restauration et débits de boissons;2004;114012;2027312036
+TI classique;IZ2 - Restauration et débits de boissons;2006;117197;2011987606
+TI classique;IZ2 - Restauration et débits de boissons;2009;125589;2101356513
+TI classique;IZ2 - Restauration et débits de boissons;2010;121867;2162199624
+TI classique;IZ2 - Restauration et débits de boissons;2014;113189;2088669569
+TI classique;IZ2 - Restauration et débits de boissons;2017;110508;2180492980
+TI classique;IZ2 - Restauration et débits de boissons;2018;110671;2309129453
+TI classique;JZ - Informatique, information et communication;2005;23637;509883876
+TI classique;JZ - Informatique, information et communication;2006;26123;570153232
+TI classique;JZ - Informatique, information et communication;2008;29722;722702973
+TI classique;JZ - Informatique, information et communication;2013;29360;953434624
+TI classique;JZ - Informatique, information et communication;2015;28696;1027526289
+TI classique;JZ - Informatique, information et communication;2020;29314;1263799857
+TI classique;KZ - Activités financières et d'assurance;2006;27373;1484588990
+TI classique;KZ - Activités financières et d'assurance;2008;28243;1483091005
+TI classique;KZ - Activités financières et d'assurance;2009;29613;1496744888
+TI classique;KZ - Activités financières et d'assurance;2012;28858;1663322815
+TI classique;KZ - Activités financières et d'assurance;2013;28909;1772245062
+TI classique;KZ - Activités financières et d'assurance;2018;29473;2049672933
+TI classique;LZ - Activités immobilières;2007;70393;1970025999
+TI classique;LZ - Activités immobilières;2009;75608;1849524831
+TI classique;LZ - Activités immobilières;2015;70738;2352509916
+TI classique;LZ - Activités immobilières;2016;69132;2370570585
+TI classique;LZ - Activités immobilières;2019;63595;2403974570
+TI classique;LZ - Activités immobilières;2020;63371;2249364180
+TI classique;M1 - Activités juridiques;2005;54118;5237384233
+TI classique;M1 - Activités juridiques;2007;57085;5861946254
+TI classique;M1 - Activités juridiques;2010;63078;6214966229
+TI classique;M1 - Activités juridiques;2016;74601;7048011520
+TI classique;M1 - Activités juridiques;2017;76471;7477684575
+TI classique;M1 - Activités juridiques;2018;78904;8059829569
+TI classique;M1 - Activités juridiques;2019;81077;7893452183
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2012;65508;2817323799
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2019;60629;3102862680
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2004;30966;818095235
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2007;42153;1199506698
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2008;41744;1213940736
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2009;45097;1208659615
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2016;42212;1668583497
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2011;9498;201716509
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2013;9683;225296344
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2017;9275;240009820
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2018;9110;252480148
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2020;8789;218205055
+TI classique;M5 - Autres activités scientifiques et techniques;2004;33787;966488374
+TI classique;M5 - Autres activités scientifiques et techniques;2010;39054;1230124110
+TI classique;M5 - Autres activités scientifiques et techniques;2011;38173;1271332514
+TI classique;M5 - Autres activités scientifiques et techniques;2015;36868;1396602886
+TI classique;M5 - Autres activités scientifiques et techniques;2016;36710;1414207365
+TI classique;M5 - Autres activités scientifiques et techniques;2017;35825;1416554597
+TI classique;M5 - Autres activités scientifiques et techniques;2019;34047;1468082622
+TI classique;M5 - Autres activités scientifiques et techniques;2020;33329;1477889970
+TI classique;N1 - Activités de nettoyage;2008;14264;293981359
+TI classique;N1 - Activités de nettoyage;2009;15490;302598954
+TI classique;N1 - Activités de nettoyage;2018;11825;355423204
+TI classique;N1 - Activités de nettoyage;2020;11326;342395582
+TI classique;N2 - Autres activités de service administratif et de soutien;2007;29868;627484295
+TI classique;N2 - Autres activités de service administratif et de soutien;2010;32221;656355954
+TI classique;N2 - Autres activités de service administratif et de soutien;2014;28798;768344209
+TI classique;N2 - Autres activités de service administratif et de soutien;2015;28002;779509667
+TI classique;N2 - Autres activités de service administratif et de soutien;2017;26666;802814487
+TI classique;N2 - Autres activités de service administratif et de soutien;2018;26072;857358148
+TI classique;PZ - Enseignement;2008;30658;536091031
+TI classique;PZ - Enseignement;2015;27742;596389747
+TI classique;PZ - Enseignement;2016;27194;578921806
+TI classique;PZ - Enseignement;2020;22940;472909221
+TI classique;QZ1 - Médecine générale;2004;81996;5212872946
+TI classique;QZ1 - Médecine générale;2010;81706;5772256076
+TI classique;QZ1 - Médecine générale;2013;82516;6198742447
+TI classique;QZ1 - Médecine générale;2014;82599;6353419207
+TI classique;QZ1 - Médecine générale;2019;81226;6838038958
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2007;46581;5003441313
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2009;49372;5344155874
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2012;52129;5906804777
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2017;55921;6894295124
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2019;57548;7370750756
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2007;145304;5240921934
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2014;208996;8379657585
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2017;239520;9659955585
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2019;254050;10505482055
+TI classique;QZ4 - Pratique dentaire;2007;36992;3282821151
+TI classique;QZ4 - Pratique dentaire;2008;36131;3363792833
+TI classique;QZ4 - Pratique dentaire;2009;36861;3338823396
+TI classique;QZ4 - Pratique dentaire;2011;37356;3690331683
+TI classique;QZ4 - Pratique dentaire;2012;37473;3703568157
+TI classique;QZ4 - Pratique dentaire;2013;37692;3702173168
+TI classique;QZ4 - Pratique dentaire;2014;37860;3731495588
+TI classique;QZ4 - Pratique dentaire;2016;38100;3902338620
+TI classique;QZ4 - Pratique dentaire;2018;38265;4181323700
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2004;24408;2342700724
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2008;23916;2111734748
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2015;23838;2028868889
+TI classique;QZ6 - Autres services de santé;2005;16609;291391550
+TI classique;QZ6 - Autres services de santé;2006;18795;316697786
+TI classique;QZ6 - Autres services de santé;2012;23577;455208938
+TI classique;QZ6 - Autres services de santé;2013;23832;484853820
+TI classique;QZ6 - Autres services de santé;2014;24012;502698088
+TI classique;QZ6 - Autres services de santé;2020;23343;495041929
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2007;1841;31441113
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2014;2642;66785284
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2019;3213;91863062
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2004;27142;306339501
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2007;32389;367937843
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2008;33330;403896208
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2014;27083;463456672
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2015;25657;449409595
+TI classique;R2 - Activités sportives;2006;24724;227897982
+TI classique;R2 - Activités sportives;2007;26205;237750181
+TI classique;R2 - Activités sportives;2010;26768;264178083
+TI classique;R2 - Activités sportives;2013;26551;304349387
+TI classique;R2 - Activités sportives;2014;26614;303205969
+TI classique;R2 - Activités sportives;2015;26328;309350380
+TI classique;R2 - Activités sportives;2018;24142;335062214
+TI classique;R2 - Activités sportives;2019;23455;337312552
+TI classique;R2 - Activités sportives;2020;22710;289858143
+TI classique;S1 - Réparations hors automobile;2014;14546;217849488
+TI classique;S1 - Réparations hors automobile;2019;11117;196737417
+TI classique;S1 - Réparations hors automobile;2020;10493;173610140
+TI classique;S2 - Coiffure et soins du corps;2011;71625;967744898
+TI classique;S2 - Coiffure et soins du corps;2012;70677;959541826
+TI classique;S2 - Coiffure et soins du corps;2018;62340;1026644866
+TI classique;S2 - Coiffure et soins du corps;2019;60985;1047047100
+TI classique;S3 - Autres services personnels;2006;23373;268482295
+TI classique;S3 - Autres services personnels;2007;24638;279249738
+TI classique;S3 - Autres services personnels;2010;23344;293726824
+TI classique;S3 - Autres services personnels;2011;21477;287545389
+TI classique;S3 - Autres services personnels;2016;17510;290584920
+TI classique;S3 - Autres services personnels;2017;16701;288832173
+TI classique;S3 - Autres services personnels;2018;16246;293612654
+TI classique;S3 - Autres services personnels;2019;15871;288992181
+TI classique;UZ - Autres;2005;237726;4837375404
+TI classique;UZ - Autres;2006;253782;4996905609
+TI classique;UZ - Autres;2007;268384;5302630187
+TI classique;UZ - Autres;2008;332016;6365769041
+TI classique;UZ - Autres;2016;210490;6057870162
+TI classique;UZ - Autres;2018;155486;5850804920
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2009;446;1070759
+Autoentrepreneur;AZ - Agriculture, sylviculture et pêche;2021;2708;15447485
+Autoentrepreneur;CZ1 - Industrie;2009;8538;20820847
+Autoentrepreneur;CZ1 - Industrie;2012;34499;116200671
+Autoentrepreneur;CZ1 - Industrie;2021;98340;403397748
+Autoentrepreneur;CZ2 - Métiers de bouche;2009;3100;8009138
+Autoentrepreneur;CZ2 - Métiers de bouche;2016;15635;50320630
+Autoentrepreneur;CZ2 - Métiers de bouche;2017;16041;54006233
+Autoentrepreneur;CZ2 - Métiers de bouche;2019;18344;74501865
+Autoentrepreneur;CZ2 - Métiers de bouche;2021;21429;94608355
+Autoentrepreneur;F1 - BTP gros-oeuvre;2009;5566;20062421
+Autoentrepreneur;F1 - BTP gros-oeuvre;2014;31689;171854756
+Autoentrepreneur;F1 - BTP gros-oeuvre;2016;34605;212965231
+Autoentrepreneur;F1 - BTP gros-oeuvre;2017;35778;239002902
+Autoentrepreneur;F1 - BTP gros-oeuvre;2018;39597;307066382
+Autoentrepreneur;F2 - BTP travaux d'installation;2009;4868;16153773
+Autoentrepreneur;F2 - BTP travaux d'installation;2011;17446;102949298
+Autoentrepreneur;F2 - BTP travaux d'installation;2017;29499;224530623
+Autoentrepreneur;F2 - BTP travaux d'installation;2020;42821;402617864
+Autoentrepreneur;F3 - BTP travaux de finition;2009;8696;32039207
+Autoentrepreneur;F3 - BTP travaux de finition;2010;23458;121272491
+Autoentrepreneur;F3 - BTP travaux de finition;2011;33198;196485671
+Autoentrepreneur;F3 - BTP travaux de finition;2012;42342;248675036
+Autoentrepreneur;F3 - BTP travaux de finition;2013;49357;281743917
+Autoentrepreneur;F3 - BTP travaux de finition;2014;54083;307321699
+Autoentrepreneur;F3 - BTP travaux de finition;2015;55933;339946699
+Autoentrepreneur;F3 - BTP travaux de finition;2016;58199;382055282
+Autoentrepreneur;F3 - BTP travaux de finition;2018;65474;529252275
+Autoentrepreneur;F3 - BTP travaux de finition;2019;72508;651932742
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2009;2494;6882333
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2010;6454;25772598
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2012;11745;53567931
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2014;16482;68290091
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2015;17484;76743720
+Autoentrepreneur;G1 - Commerce-réparation d'automobiles;2019;24916;143274358
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2009;3304;12417810
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2012;13148;64732945
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2014;16456;75737855
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2018;25792;168800578
+Autoentrepreneur;G2 - Commerce de gros, intermédiaires du commerce;2019;30749;226848674
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2009;568;1980363
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2014;2141;8632287
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2020;3289;17406916
+Autoentrepreneur;G3 - Commerce de détail alimentaire hors métiers de bouche;2021;3612;20950404
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2016;33228;109837293
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2017;33964;117702915
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2019;39150;163305405
+Autoentrepreneur;G4 - Commerce de détail non alimentaire (hors pharmacie);2020;39403;152220890
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2013;36138;68389949
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2015;39506;75296727
+Autoentrepreneur;G5 - Commerce de détail sur marchés non classé ailleurs;2019;40936;100844844
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2012;23014;68407505
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2015;23983;74821609
+Autoentrepreneur;G6 - Commerce de détail non spécialisé;2019;31798;125928237
+Autoentrepreneur;HZ1 - Taxis - VTC;2009;133;438230
+Autoentrepreneur;HZ1 - Taxis - VTC;2012;816;3656638
+Autoentrepreneur;HZ1 - Taxis - VTC;2020;14313;65992072
+Autoentrepreneur;HZ1 - Taxis - VTC;2021;15342;88319334
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2016;1270;4844590
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2019;2400;10496207
+Autoentrepreneur;HZ2 - Transports routier de fret et déménagement;2020;2851;11403385
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2009;119;247202
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2013;458;1664060
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2015;1795;3104172
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2019;40234;71988450
+Autoentrepreneur;HZ3 - Activités de poste et de courrier;2021;84658;132524179
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2009;337;1001307
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2015;2498;8769588
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2017;2268;9225974
+Autoentrepreneur;HZ4 - Autres activités de transports et entreposage;2018;2390;10910987
+Autoentrepreneur;IZ1 - Hébergement;2010;2550;11351818
+Autoentrepreneur;IZ1 - Hébergement;2015;5626;29786478
+Autoentrepreneur;IZ1 - Hébergement;2018;7802;49469415
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2014;18750;75147797
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2015;20215;85124131
+Autoentrepreneur;IZ2 - Restauration et débits de boissons;2018;26715;132212013
+Autoentrepreneur;JZ - Informatique, information et communication;2010;18535;85811380
+Autoentrepreneur;JZ - Informatique, information et communication;2011;23090;116276470
+Autoentrepreneur;JZ - Informatique, information et communication;2017;34765;194434285
+Autoentrepreneur;JZ - Informatique, information et communication;2018;39824;275748886
+Autoentrepreneur;JZ - Informatique, information et communication;2021;67417;608561731
+Autoentrepreneur;KZ - Activités financières et d'assurance;2009;894;3537073
+Autoentrepreneur;KZ - Activités financières et d'assurance;2013;3332;17973676
+Autoentrepreneur;KZ - Activités financières et d'assurance;2015;3944;23530277
+Autoentrepreneur;KZ - Activités financières et d'assurance;2017;4538;30224987
+Autoentrepreneur;KZ - Activités financières et d'assurance;2018;5419;40582106
+Autoentrepreneur;KZ - Activités financières et d'assurance;2021;8985;78110066
+Autoentrepreneur;LZ - Activités immobilières;2010;3697;20872681
+Autoentrepreneur;LZ - Activités immobilières;2011;5580;32916385
+Autoentrepreneur;LZ - Activités immobilières;2015;9775;57469984
+Autoentrepreneur;LZ - Activités immobilières;2016;11535;71189244
+Autoentrepreneur;LZ - Activités immobilières;2020;28193;233771274
+Autoentrepreneur;M1 - Activités juridiques;2009;602;5010132
+Autoentrepreneur;M1 - Activités juridiques;2010;762;7608788
+Autoentrepreneur;M1 - Activités juridiques;2014;1069;12286564
+Autoentrepreneur;M1 - Activités juridiques;2015;1034;11910641
+Autoentrepreneur;M1 - Activités juridiques;2019;1198;18725851
+Autoentrepreneur;M1 - Activités juridiques;2020;1269;20268690
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2011;17968;130386990
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2012;21873;153608980
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2015;29575;201287225
+Autoentrepreneur;M2 - Activités comptables, de conseil et d'ingénierie;2021;59201;526486675
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2010;22627;162315017
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2012;29491;218267484
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2013;31531;224512605
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2015;37155;264366505
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2016;40613;286481201
+Autoentrepreneur;M3 - Conseil pour les affaires et autres conseils de gestion;2018;57846;445997076
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2012;18540;88455859
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2014;21375;100229952
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2019;33179;218620056
+Autoentrepreneur;M4 - Activités spécialisées de design, graphisme et d'infographie;2020;38297;220843840
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2010;16927;80848253
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2013;34291;166729303
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2014;38237;183867902
+Autoentrepreneur;M5 - Autres activités scientifiques et techniques;2015;40915;208224143
+Autoentrepreneur;N1 - Activités de nettoyage;2013;16114;67590115
+Autoentrepreneur;N1 - Activités de nettoyage;2016;24376;110150734
+Autoentrepreneur;N1 - Activités de nettoyage;2018;32911;176782370
+Autoentrepreneur;N1 - Activités de nettoyage;2021;62730;377574126
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2009;8292;25274861
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2012;26956;126113792
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2013;29820;136988789
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2014;31006;144198019
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2020;45989;239239826
+Autoentrepreneur;N2 - Autres activités de service administratif et de soutien;2021;53343;321150368
+Autoentrepreneur;PZ - Enseignement;2011;32279;161283242
+Autoentrepreneur;PZ - Enseignement;2012;38850;205139903
+Autoentrepreneur;PZ - Enseignement;2021;99208;578893791
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2010;892;4874493
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2015;4606;33394685
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2016;5622;43178823
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2017;6511;55274392
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2018;7689;74169172
+Autoentrepreneur;QZ3 - Professions paramédicales et sage-femmes;2020;9946;101261564
+Autoentrepreneur;QZ6 - Autres services de santé;2009;4232;8731481
+Autoentrepreneur;QZ6 - Autres services de santé;2011;16581;66510075
+Autoentrepreneur;QZ6 - Autres services de santé;2015;38165;178214730
+Autoentrepreneur;QZ6 - Autres services de santé;2016;43889;209424857
+Autoentrepreneur;QZ6 - Autres services de santé;2018;55778;303386681
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2010;974;3151492
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2013;2914;8823173
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2014;2896;10341287
+Autoentrepreneur;QZ7 - Action sociale (y compris aide à domicile);2019;5984;22651149
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2010;19117;57695019
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2014;40580;128940692
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2020;67526;223177837
+Autoentrepreneur;R1 - Arts, spectacles et autres activités récréatives;2021;77837;322766206
+Autoentrepreneur;R2 - Activités sportives;2012;16417;76057638
+Autoentrepreneur;R2 - Activités sportives;2014;23643;108642302
+Autoentrepreneur;R2 - Activités sportives;2017;29736;152806830
+Autoentrepreneur;S1 - Réparations hors automobile;2017;20014;87958393
+Autoentrepreneur;S1 - Réparations hors automobile;2019;22207;114741871
+Autoentrepreneur;S2 - Coiffure et soins du corps;2013;43906;156226342
+Autoentrepreneur;S2 - Coiffure et soins du corps;2015;46464;184581838
+Autoentrepreneur;S2 - Coiffure et soins du corps;2016;47805;201515377
+Autoentrepreneur;S2 - Coiffure et soins du corps;2020;65912;262847798
+Autoentrepreneur;S3 - Autres services personnels;2009;7352;16197911
+Autoentrepreneur;S3 - Autres services personnels;2012;25615;93645790
+Autoentrepreneur;S3 - Autres services personnels;2014;30001;110684495
+Autoentrepreneur;S3 - Autres services personnels;2017;36929;152604510
+Autoentrepreneur;S3 - Autres services personnels;2018;44208;190638792
+Autoentrepreneur;S3 - Autres services personnels;2019;55974;244185489
+Autoentrepreneur;UZ - Autres;2010;1446;6933346
+Autoentrepreneur;UZ - Autres;2011;1722;9172043
+Autoentrepreneur;UZ - Autres;2012;1491;7915565
+Autoentrepreneur;UZ - Autres;2014;886;3730966
+Autoentrepreneur;UZ - Autres;2019;400;2407507
+Autoentrepreneur;UZ - Autres;2020;300;1751158
+TI classique;AZ - Agriculture, sylviculture et pêche;2005;8896;229876704
+TI classique;AZ - Agriculture, sylviculture et pêche;2007;10088;267016631
+TI classique;AZ - Agriculture, sylviculture et pêche;2013;12564;304740560
+TI classique;AZ - Agriculture, sylviculture et pêche;2015;9747;282202961
+TI classique;AZ - Agriculture, sylviculture et pêche;2017;8281;262512168
+TI classique;AZ - Agriculture, sylviculture et pêche;2018;7694;267225847
+TI classique;CZ1 - Industrie;2010;73913;1684736563
+TI classique;CZ1 - Industrie;2013;67729;1883561860
+TI classique;CZ1 - Industrie;2016;59611;1791232028
+TI classique;CZ1 - Industrie;2017;57076;1780954757
+TI classique;CZ1 - Industrie;2020;52501;1657604952
+TI classique;CZ2 - Métiers de bouche;2008;76642;1656489319
+TI classique;CZ2 - Métiers de bouche;2010;74532;1627819325
+TI classique;CZ2 - Métiers de bouche;2013;66759;1526719477
+TI classique;CZ2 - Métiers de bouche;2016;60658;1466322291
+TI classique;F1 - BTP gros-oeuvre;2005;83948;2127319071
+TI classique;F1 - BTP gros-oeuvre;2006;86454;2266079095
+TI classique;F1 - BTP gros-oeuvre;2009;97939;2308309889
+TI classique;F1 - BTP gros-oeuvre;2011;90375;2286588281
+TI classique;F1 - BTP gros-oeuvre;2016;78771;2161864814
+TI classique;F2 - BTP travaux d'installation;2005;67140;1708284074
+TI classique;F2 - BTP travaux d'installation;2007;74016;1914359523
+TI classique;F2 - BTP travaux d'installation;2008;74766;1956675598
+TI classique;F2 - BTP travaux d'installation;2009;79141;1971638094
+TI classique;F2 - BTP travaux d'installation;2010;77027;1896366535
+TI classique;F2 - BTP travaux d'installation;2012;76058;1887880186
+TI classique;F2 - BTP travaux d'installation;2017;64911;1912654451
+TI classique;F2 - BTP travaux d'installation;2020;61935;1918440206
+TI classique;F3 - BTP travaux de finition;2010;109366;2476719955
+TI classique;F3 - BTP travaux de finition;2011;105475;2502213979
+TI classique;F3 - BTP travaux de finition;2012;103466;2420069565
+TI classique;F3 - BTP travaux de finition;2015;90600;2294533849
+TI classique;F3 - BTP travaux de finition;2018;80627;2313381184
+TI classique;F3 - BTP travaux de finition;2020;75989;2116782199
+TI classique;G1 - Commerce-réparation d'automobiles;2007;41796;970148623
+TI classique;G1 - Commerce-réparation d'automobiles;2008;42458;963342109
+TI classique;G1 - Commerce-réparation d'automobiles;2009;45189;976072725
+TI classique;G1 - Commerce-réparation d'automobiles;2013;45610;1081157347
+TI classique;G1 - Commerce-réparation d'automobiles;2017;42890;1105822606
+TI classique;G1 - Commerce-réparation d'automobiles;2020;41311;1096780058
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2007;60722;1435932846
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2011;61976;1586030315
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2012;60749;1607485369
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2013;59382;1755742794
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2014;56807;1724674676
+TI classique;G2 - Commerce de gros, intermédiaires du commerce;2019;48376;1791147134
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2005;28288;489904151
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2006;27692;481333898
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2007;27788;489840880
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2010;27840;513590708
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2013;27442;539316374
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2016;25592;558198426
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2017;25261;567677675
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2018;25216;603195996
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2019;25053;629551485
+TI classique;G3 - Commerce de détail alimentaire hors métiers de bouche;2020;25264;678345996
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2007;120205;2088545498
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2012;106828;2013001837
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2014;98938;1997758197
+TI classique;G4 - Commerce de détail non alimentaire (hors pharmacie);2017;88792;1959004322
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2004;45932;223403566
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2012;23376;134870018
+TI classique;G5 - Commerce de détail sur marchés non classé ailleurs;2015;16616;106410095
+TI classique;G6 - Commerce de détail non spécialisé;2004;8401;152370960
+TI classique;G6 - Commerce de détail non spécialisé;2009;17915;230665072
+TI classique;G6 - Commerce de détail non spécialisé;2010;16773;235728454
+TI classique;G6 - Commerce de détail non spécialisé;2012;16813;267865366
+TI classique;G6 - Commerce de détail non spécialisé;2013;16913;306260888
+TI classique;G6 - Commerce de détail non spécialisé;2019;15077;383794345
+TI classique;HZ1 - Taxis - VTC;2006;28736;439685413
+TI classique;HZ1 - Taxis - VTC;2012;32289;494317819
+TI classique;HZ1 - Taxis - VTC;2016;34508;520727438
+TI classique;HZ1 - Taxis - VTC;2017;34933;550795822
+TI classique;HZ2 - Transports routier de fret et déménagement;2007;19036;510393211
+TI classique;HZ2 - Transports routier de fret et déménagement;2011;19325;466735836
+TI classique;HZ2 - Transports routier de fret et déménagement;2018;15381;497719842
+TI classique;HZ2 - Transports routier de fret et déménagement;2019;15100;492452388
+TI classique;HZ3 - Activités de poste et de courrier;2010;949;13543885
+TI classique;HZ3 - Activités de poste et de courrier;2013;940;14167433
+TI classique;HZ3 - Activités de poste et de courrier;2015;821;13791908
+TI classique;HZ3 - Activités de poste et de courrier;2016;735;13040013
+TI classique;HZ4 - Autres activités de transports et entreposage;2008;5428;123550440
+TI classique;HZ4 - Autres activités de transports et entreposage;2009;5650;125971598
+TI classique;HZ4 - Autres activités de transports et entreposage;2013;5458;149542905
+TI classique;HZ4 - Autres activités de transports et entreposage;2015;5250;149810903
+TI classique;HZ4 - Autres activités de transports et entreposage;2016;5217;150977209
+TI classique;HZ4 - Autres activités de transports et entreposage;2020;4509;133540421
+TI classique;IZ1 - Hébergement;2005;22839;425243872
+TI classique;IZ1 - Hébergement;2014;21134;402930879
+TI classique;IZ1 - Hébergement;2015;20648;394303066
+TI classique;IZ1 - Hébergement;2019;19813;405177839
+TI classique;IZ2 - Restauration et débits de boissons;2007;117219;2077183904
+TI classique;IZ2 - Restauration et débits de boissons;2011;118434;2158061144
+TI classique;IZ2 - Restauration et débits de boissons;2016;112661;2138902142
+TI classique;IZ2 - Restauration et débits de boissons;2019;110662;2391520815
+TI classique;JZ - Informatique, information et communication;2007;28678;651815287
+TI classique;JZ - Informatique, information et communication;2009;31660;729998882
+TI classique;JZ - Informatique, information et communication;2012;29558;888107196
+TI classique;JZ - Informatique, information et communication;2018;29463;1283210097
+TI classique;KZ - Activités financières et d'assurance;2004;24444;1309949711
+TI classique;KZ - Activités financières et d'assurance;2005;26175;1418794610
+TI classique;KZ - Activités financières et d'assurance;2007;28460;1549883034
+TI classique;KZ - Activités financières et d'assurance;2016;28695;1852410786
+TI classique;KZ - Activités financières et d'assurance;2020;31106;2052782868
+TI classique;LZ - Activités immobilières;2006;66639;1874992451
+TI classique;LZ - Activités immobilières;2010;73712;1995765122
+TI classique;LZ - Activités immobilières;2011;75577;2133625841
+TI classique;LZ - Activités immobilières;2017;66765;2413933128
+TI classique;LZ - Activités immobilières;2018;65150;2577860086
+TI classique;M1 - Activités juridiques;2006;56267;5553037653
+TI classique;M1 - Activités juridiques;2015;72675;6752428646
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2004;52775;2226556679
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2005;56327;2396446414
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2007;61899;2742863657
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2009;65455;2633268209
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2011;64944;2817859780
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2013;64966;2934262831
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2015;63296;2849422942
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2016;63078;2900185762
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2017;62351;2975354878
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2018;61483;3195138734
+TI classique;M2 - Activités comptables, de conseil et d'ingénierie;2020;60074;2945881932
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2011;42891;1370069636
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2012;43653;1428787186
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2014;42350;1577343318
+TI classique;M3 - Conseil pour les affaires et autres conseils de gestion;2015;42026;1622713646
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2004;5806;118981252
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2005;6637;131688622
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2007;8446;170835331
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2009;10269;184538376
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2010;9667;186342790
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2014;9521;224137092
+TI classique;M4 - Activités spécialisées de design, graphisme et d'infographie;2015;9296;223071022
+TI classique;M5 - Autres activités scientifiques et techniques;2006;36864;1050596721
+TI classique;M5 - Autres activités scientifiques et techniques;2007;38243;1133367060
+TI classique;M5 - Autres activités scientifiques et techniques;2009;40993;1209106471
+TI classique;M5 - Autres activités scientifiques et techniques;2013;38133;1353182169
+TI classique;M5 - Autres activités scientifiques et techniques;2014;37448;1373644627
+TI classique;M5 - Autres activités scientifiques et techniques;2018;34986;1481844502
+TI classique;N1 - Activités de nettoyage;2004;10409;216179358
+TI classique;N1 - Activités de nettoyage;2010;14512;296925027
+TI classique;N1 - Activités de nettoyage;2012;13920;315276222
+TI classique;N1 - Activités de nettoyage;2013;13805;345447013
+TI classique;N1 - Activités de nettoyage;2014;13330;341910217
+TI classique;N1 - Activités de nettoyage;2016;12662;342842385
+TI classique;N1 - Activités de nettoyage;2017;12116;346089524
+TI classique;N1 - Activités de nettoyage;2019;11396;358842045
+TI classique;N2 - Autres activités de service administratif et de soutien;2004;24767;503931126
+TI classique;N2 - Autres activités de service administratif et de soutien;2006;28110;577343334
+TI classique;N2 - Autres activités de service administratif et de soutien;2008;32418;666371983
+TI classique;N2 - Autres activités de service administratif et de soutien;2009;34642;648483728
+TI classique;N2 - Autres activités de service administratif et de soutien;2011;30641;686928421
+TI classique;N2 - Autres activités de service administratif et de soutien;2012;30699;732798317
+TI classique;N2 - Autres activités de service administratif et de soutien;2013;30087;776697709
+TI classique;N2 - Autres activités de service administratif et de soutien;2019;25424;828262695
+TI classique;PZ - Enseignement;2005;27682;447025843
+TI classique;PZ - Enseignement;2006;28993;480836024
+TI classique;PZ - Enseignement;2007;30766;518685787
+TI classique;PZ - Enseignement;2009;32262;550555643
+TI classique;PZ - Enseignement;2011;29412;562313195
+TI classique;PZ - Enseignement;2012;29481;582745894
+TI classique;PZ - Enseignement;2017;26187;577050759
+TI classique;PZ - Enseignement;2018;25203;572415884
+TI classique;QZ1 - Médecine générale;2005;83332;5332560978
+TI classique;QZ1 - Médecine générale;2006;82796;5176540971
+TI classique;QZ1 - Médecine générale;2007;82063;5703101415
+TI classique;QZ1 - Médecine générale;2009;80911;5747213124
+TI classique;QZ1 - Médecine générale;2011;82108;6112227931
+TI classique;QZ1 - Médecine générale;2012;82181;6051071122
+TI classique;QZ1 - Médecine générale;2016;82338;6464648724
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2004;42263;4383880627
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2005;43953;4480311225
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2008;47150;5104144164
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2011;51399;5899359619
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2013;52806;6037085371
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2014;53521;6272224164
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2015;54426;6477807630
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2016;55277;6661207786
+TI classique;QZ2 - Médecine spécialisée, analyses médicales;2018;56628;7373177693
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2004;126153;4300369936
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2006;140277;4793316632
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2009;159986;6013260837
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2011;178881;6856387829
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2012;187992;7342043518
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2013;198306;7918809727
+TI classique;QZ3 - Professions paramédicales et sage-femmes;2016;230790;9146675920
+TI classique;QZ4 - Pratique dentaire;2005;37179;3091752502
+TI classique;QZ4 - Pratique dentaire;2010;37194;3565093697
+TI classique;QZ4 - Pratique dentaire;2017;38357;3981073375
+TI classique;QZ4 - Pratique dentaire;2019;38400;4121601714
+TI classique;QZ4 - Pratique dentaire;2020;38250;3981282678
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2005;24776;2310725984
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2006;24911;2284295261
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2010;24434;2156100143
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2011;24385;2200669655
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2012;24294;2140221914
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2013;24029;2164140802
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2014;23912;2097380666
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2016;24047;1974846952
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2017;24132;1939312296
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2019;24111;1874580561
+TI classique;QZ5 - Commerce de produits pharmaceutique et orthopédique;2020;24104;1829855721
+TI classique;QZ6 - Autres services de santé;2004;14101;267777834
+TI classique;QZ6 - Autres services de santé;2007;21499;352231838
+TI classique;QZ6 - Autres services de santé;2009;25122;415861431
+TI classique;QZ6 - Autres services de santé;2017;24678;543275541
+TI classique;QZ6 - Autres services de santé;2019;23762;543128127
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2004;1163;23790539
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2013;2578;62015007
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2018;3093;87593615
+TI classique;QZ7 - Action sociale (y compris aide à domicile);2020;3307;92961399
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2006;30844;342075843
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2010;31020;382432757
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2012;28889;426795081
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2013;28131;467919493
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2016;24728;464228903
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2018;22399;490876575
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2019;21534;464726048
+TI classique;R1 - Arts, spectacles et autres activités récréatives;2020;20759;390919347
+TI classique;R2 - Activités sportives;2004;21710;196663815
+TI classique;R2 - Activités sportives;2005;23574;214472390
+TI classique;R2 - Activités sportives;2008;26132;253591968
+TI classique;R2 - Activités sportives;2009;27781;264787877
+TI classique;R2 - Activités sportives;2011;26322;272706945
+TI classique;R2 - Activités sportives;2017;24768;322601180
+TI classique;S1 - Réparations hors automobile;2007;20121;251112324
+TI classique;S1 - Réparations hors automobile;2008;19247;251452228
+TI classique;S1 - Réparations hors automobile;2009;20178;249815923
+TI classique;S1 - Réparations hors automobile;2010;18000;240932281
+TI classique;S1 - Réparations hors automobile;2011;16628;236729429
+TI classique;S1 - Réparations hors automobile;2012;15940;225037616
+TI classique;S1 - Réparations hors automobile;2013;15304;224703424
+TI classique;S1 - Réparations hors automobile;2015;13689;211393129
+TI classique;S1 - Réparations hors automobile;2017;12372;200178222
+TI classique;S1 - Réparations hors automobile;2018;11757;199873336
+TI classique;S2 - Coiffure et soins du corps;2004;65307;868040498
+TI classique;S2 - Coiffure et soins du corps;2008;74718;959503518
+TI classique;S2 - Coiffure et soins du corps;2009;79324;972500557
+TI classique;S2 - Coiffure et soins du corps;2010;74046;959105051
+TI classique;S2 - Coiffure et soins du corps;2013;69755;976930790
+TI classique;S2 - Coiffure et soins du corps;2014;68196;985755750
+TI classique;S2 - Coiffure et soins du corps;2016;65671;1015621599
+TI classique;S2 - Coiffure et soins du corps;2017;63709;1016245716
+TI classique;S2 - Coiffure et soins du corps;2020;59747;899016579
+TI classique;S3 - Autres services personnels;2004;21317;252202943
+TI classique;S3 - Autres services personnels;2005;22629;262880179
+TI classique;S3 - Autres services personnels;2009;25990;298484707
+TI classique;S3 - Autres services personnels;2012;20635;290709843
+TI classique;S3 - Autres services personnels;2013;19825;299441724
+TI classique;S3 - Autres services personnels;2014;18911;292336928
+TI classique;UZ - Autres;2004;206919;4496126788
+TI classique;UZ - Autres;2009;332389;6136286548
+TI classique;UZ - Autres;2010;313796;6028246179
+TI classique;UZ - Autres;2011;308500;6280213947
+TI classique;UZ - Autres;2012;301378;6381077846
+TI classique;UZ - Autres;2013;288924;6869811791
+TI classique;UZ - Autres;2014;268100;6633008870
+TI classique;UZ - Autres;2015;239605;6350170279
+TI classique;UZ - Autres;2017;178908;5745640403
+TI classique;UZ - Autres;2019;134824;5292827470
+TI classique;UZ - Autres;2020;119154;4835620560
